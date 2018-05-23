@@ -15,7 +15,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 
-public class TestSistemas {
+public class SistemasTest {
 
 	 protected WebDriver driver1;
      protected WebDriver driver2;

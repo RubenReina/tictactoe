@@ -12,7 +12,7 @@ import es.codeurjc.ais.tictactoe.TicTacToeGame.Event;
 import es.codeurjc.ais.tictactoe.TicTacToeGame.EventType;
 import es.codeurjc.ais.tictactoe.TicTacToeGame.WinnerValue;
 
-public class TestDobles {
+public class DoblesTest {
 
 	TicTacToeGame juego;
 	Connection conect1;
